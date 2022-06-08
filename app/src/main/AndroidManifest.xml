@@ -10,13 +10,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WereldApp">
         <activity
-            android:name=".DetailScreen"
+            android:name=".ui.NegaraScreen"
             android:exported="false" />
         <activity
-            android:name=".DestaScreen"
+            android:name=".ui.DestaMainScreen"
             android:exported="false" />
         <activity
-            android:name=".SplashScreen"
+            android:name=".ui.DetailScreen"
+            android:exported="false" />
+        <activity
+            android:name=".ui.DestaScreen"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SplashScreen"
             android:exported="true"
             android:theme="@style/Theme.Design.NoActionBar">
             <intent-filter>
@@ -26,7 +32,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.MainActivity"
             android:exported="false" />
     </application>
 

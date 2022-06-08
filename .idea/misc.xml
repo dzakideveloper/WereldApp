@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_desta_main_screen.xml" value="0.234375" />
         <entry key="app/src/main/res/layout/activity_desta_screen.xml" value="0.234375" />
         <entry key="app/src/main/res/layout/activity_detail_screen.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_negara_screen.xml" value="0.2203125" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_desta.xml" value="0.234375" />
         <entry key="app/src/main/res/layout/fragment_negara.xml" value="0.234375" />
